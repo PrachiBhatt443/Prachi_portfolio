@@ -1,2 +1,2 @@
-# Prachi_portfolio
+# Prachi_Portfolio
 A 3d portfolio
